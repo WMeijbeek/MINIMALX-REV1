@@ -1,0 +1,65 @@
+header {
+  padding: 12rem 0 20rem;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 12rem 0 20rem;
+  }
+}
+.container {
+    padding-top: 2rem;
+}
+
+section {
+  padding: 1rem 0rem 3rem 0rem;
+}
+
+.col-lg-12 h2{
+  text-align: center;
+}
+
+.col-lg-8 img {
+  padding-right: 1rem;
+  padding-top: 1rem;
+}
+
+.sociallinks ul li{
+  padding-top: 2rem;
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+.sociallinks ul{
+  text-align: center;
+}
+
+.sociallinks li {
+  display: inline-block;
+}
+
+
+/* Image about me */
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .col-lg-6 img {
+      height: 15rem;
+  }
+}
+
+.carousel{
+  height: auto;
+}
+
+.col-lg-10 {
+  padding-right: 2rem;
+  padding-top: 1rem;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
